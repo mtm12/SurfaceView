@@ -45,8 +45,8 @@ public class MainActivity extends AppCompatActivity {
     public static double screenInches;
     public static int widthPx;
     public static int heightPx;
-    private TextView tv;
-    private DisplayMetrics dm;
+    public TextView tv;
+    public DisplayMetrics dm;
     public static float multiplier;
     public static double cameraViewWidth;
     public static double camerViewHeight;
